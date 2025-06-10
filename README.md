@@ -65,3 +65,5 @@ This Decision Tree Classifier GUI application is a simple and effective tool for
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/44b850e5-911c-4854-b10a-659b0c7f00e1)
+![Image](https://github.com/user-attachments/assets/a431c547-f70a-4247-a321-6618dc0d9d0c)
