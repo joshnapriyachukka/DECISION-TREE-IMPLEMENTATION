@@ -1,0 +1,16 @@
+Age,Gender,Income,MaritalStatus,OwnsCar,Purchased
+22,Male,20000,Single,No,No
+25,Female,30000,Married,Yes,No
+35,Female,40000,Single,Yes,Yes
+45,Male,60000,Married,No,Yes
+29,Female,32000,Single,Yes,No
+50,Male,75000,Married,Yes,Yes
+41,Female,67000,Married,No,Yes
+36,Male,48000,Single,No,Yes
+27,Male,25000,Single,Yes,No
+55,Female,85000,Married,Yes,Yes
+31,Female,39000,Single,No,No
+40,Male,58000,Married,Yes,Yes
+24,Male,21000,Single,No,No
+33,Female,41000,Single,Yes,Yes
+38,Male,52000,Married,No,Yes
